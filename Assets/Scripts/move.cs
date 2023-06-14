@@ -9,6 +9,7 @@ public class move : MonoBehaviour
     void Start()
     {
         print("这是分支1-1");
+        print("这是分支2");
     }
 
     // Update is called once per frame
