@@ -10,6 +10,9 @@ public class move : MonoBehaviour
     {
         print("这是分支7");
         print("这是分支7");
+        print("这是分支1-1");
+        print("----------------");
+         print("这是分支3");
     }
 
     // Update is called once per frame
